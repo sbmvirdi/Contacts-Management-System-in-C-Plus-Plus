@@ -1,0 +1,2 @@
+# Contacts-Management-System-in-C-Plus-Plus
+ This project Emphasizes on the management of the contacts of the user. User can easily find the contacts of a particular person. A User can easily get to know the mobile number, alternate mobile number, name,  number of friends, and number of family members. A user can also search a contact in the software by name, mobile number,  , number of friend and much more.
